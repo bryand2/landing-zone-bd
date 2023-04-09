@@ -188,7 +188,7 @@
     ],
     "name": "slz-hpcs",
     "resource_group": "slz-hpcs-rg",
-    "use_hs_crypto": true,
+    "use_hs_crypto": false,
     "use_data": true
   },
   "network_cidr": "10.0.0.0/8",
