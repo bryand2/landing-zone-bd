@@ -1109,15 +1109,12 @@
       },
       "address_prefixes": {
         "zone-1": [
-          "10.5.0.0/16",
           "10.10.10.0/16"
         ],
         "zone-2": [
-          "10.6.0.0/16",
           "10.20.10.0/16"
         ],
         "zone-3": [
-          "10.7.0.0/16",
           "10.30.10.0/16"
         ]
       }
@@ -1574,7 +1571,7 @@
       "boot_volume_encryption_key_name": "slz-vsi-volume-key",
       "image_name": "ibm-ubuntu-22-04-1-minimal-amd64-4",
       "machine_type": "bx2d-4x16",
-      "name": "governance-server",
+      "name": "sn-server",
       "resource_group": "workload-rg",
       "security_group": {
         "name": "workload",
