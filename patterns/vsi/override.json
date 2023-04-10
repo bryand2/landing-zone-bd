@@ -216,9 +216,10 @@
   ],
   "secrets_manager": {
     "kms_key_name": "slz-vsi-volume-key",
-    "name": "secrets-manager",
+    "name": "slz-secrets-manager",
     "resource_group": "service-rg",
     "use_secrets_manager": true
+    "use_prefix": true
   },
   "security_compliance_center": {
     "enable_scc": false,
