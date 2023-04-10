@@ -899,7 +899,7 @@
   "ssh_keys": [
     {
       "name": "validate-ssh-key",
-      "public_key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCx1rSn25BXQ0/nUTLxdm3q6qrz0QojTtxrHCaiq9KPJ75NVMn5DzAbnXrzeHivBEGy3N44/EIMmWV77tlnnKswixdR1QgLqwQFPI1RCQAriBgqsqa9e9DNETJRBGF3vqs+bRt/C8airA+nW28j+maXVryc5MjVETqE+dlF97j6vfoUdtLzUT41Mis8AXHluJPNUayDmxZWZk6Pl0Ex0nUE9qYrPViib90ToQMV81MU7c4+Sy38KbpiL1ou9S5nQ13mPOc49K6tgB2aR+Ehd0vzVxnvRLOVzGicARm1FRAVIYzH9Pn0UFPOBQdYwji+LSeuTwa0XBVZSLiVXNche+56b0e85Jfi2zX6KRd4SdIdD3p78kKvJ8xtESErTNKcSNyVDy57PnUA+7h64/Az5KR7QqOKiECH9BznvIFZTi3Dw2AeNMi39bUQ1ylTnA7Z3vo1iYuT9rT/1cItIbF3XL3tSMk+vGtgO1MGz9RujgL/98PMEXhMBYi+3WgSy6TCU60= dlentz@Davids-MacBook-Pro-2.local",
+      "public_key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDbbe0ZwcMmqPel0msIEWPja39zU2TA1zGDcqSCd3S+/7J3++mW6xMaQGvKrXdusO5PnemlvNp2bVVWxaFIMLk0NTPLE/lb9KTlVrwrs6DkbRP6C7lwszMMLaoK1o69R9beKDdjccze/VBggoYiJOrtzObPoovRPMVrvd+p2G0sFPxIp3jTGQLOh1IbwMq2QvN1SR2KDKUG3DhH1WK4uFlTfUXaarhM2UXldPkpCUGeVtYqG2VJw0bbr9mjdK5DMPZsY4XgMpmDN9eLG2p517/oGDxv36oyyZZqv0RGV98qfuc8Gl/6XCMTMXodaPFIE/uSCtLDyPow6U4kPChjzPh5 bryand",
       "resource_group": "management-rg"
     }
   ],
